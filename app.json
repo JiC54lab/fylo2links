@@ -1,5 +1,5 @@
 {
-  "name": "Adarsh-FileStreamBot",
+  "name": "fylo2links",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarshgoel",
   "keywords": [
       "telegram",
@@ -13,7 +13,7 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/adarsh-goel/FileStreamBot-pro/",
+  "repository": "https://github.com/JiC54lab/fylo2links",
   "success_url": "/",
   "logo": "https://i.ibb.co/MnMZ1Sy/download-1.jpg",
   "website": "http://adarsh.eu.org",
@@ -67,7 +67,7 @@
       },
       "PORT": {
           "description": "Port that you want your webapp to be listened to. Read the readme for more info about this var",
-          "value": "8080",
+          "value": "8000",
           "required": false
       },
       "NO_PORT": {
@@ -95,7 +95,7 @@
       },
       "SESSION_NAME": {
           "description": " Session Name for Bot [ Add adarsh-goel]",
-          "value": "File-To-Link",
+          "value": "JiC54",
           "required": false
       }
   },
